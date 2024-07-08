@@ -1,6 +1,7 @@
 # Intro-to-Astro-2024
  ### An introductory course to Astronomy Research for aspiring students/researchers/enthusiasts
 
+
 ![alt text](https://github.com/howardisaacson/Intro-to-Astro2024/blob/main/Web_Banner.gif)
 
 ## Course Website: [Link](https://sites.google.com/view/intro-2-astro)
